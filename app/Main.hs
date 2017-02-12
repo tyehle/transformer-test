@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Unique
 
 main :: IO ()
-main = someFunc
+main = run
