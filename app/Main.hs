@@ -1,6 +1,6 @@
 module Main where
 
-import Unique
+import Game
 
 main :: IO ()
 main = run
